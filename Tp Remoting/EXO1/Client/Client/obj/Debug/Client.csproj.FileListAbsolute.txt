@@ -1,0 +1,9 @@
+C:\Users\dell\Desktop\C#\Tp Remoting\EXO1\Client\Client\bin\Debug\Client.exe.config
+C:\Users\dell\Desktop\C#\Tp Remoting\EXO1\Client\Client\bin\Debug\Client.exe
+C:\Users\dell\Desktop\C#\Tp Remoting\EXO1\Client\Client\bin\Debug\Client.pdb
+C:\Users\dell\Desktop\C#\Tp Remoting\EXO1\Client\Client\bin\Debug\DistrebutedClass.dll
+C:\Users\dell\Desktop\C#\Tp Remoting\EXO1\Client\Client\bin\Debug\DistrebutedClass.pdb
+C:\Users\dell\Desktop\C#\Tp Remoting\EXO1\Client\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\dell\Desktop\C#\Tp Remoting\EXO1\Client\Client\obj\Debug\Client.exe
+C:\Users\dell\Desktop\C#\Tp Remoting\EXO1\Client\Client\obj\Debug\Client.pdb
+C:\Users\dell\Desktop\C#\Tp Remoting\EXO1\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache

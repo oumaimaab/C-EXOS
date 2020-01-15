@@ -1,0 +1,10 @@
+C:\Users\dell\Desktop\C#\Exo2TP2Bis\Exo2TP2Bis\bin\Debug\Exo2TP2Bis.exe.config
+C:\Users\dell\Desktop\C#\Exo2TP2Bis\Exo2TP2Bis\bin\Debug\Exo2TP2Bis.exe
+C:\Users\dell\Desktop\C#\Exo2TP2Bis\Exo2TP2Bis\bin\Debug\Exo2TP2Bis.pdb
+C:\Users\dell\Desktop\C#\Exo2TP2Bis\Exo2TP2Bis\obj\Debug\Exo2TP2Bis.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\C#\Exo2TP2Bis\Exo2TP2Bis\obj\Debug\Exo2TP2Bis.Form1.resources
+C:\Users\dell\Desktop\C#\Exo2TP2Bis\Exo2TP2Bis\obj\Debug\Exo2TP2Bis.Properties.Resources.resources
+C:\Users\dell\Desktop\C#\Exo2TP2Bis\Exo2TP2Bis\obj\Debug\Exo2TP2Bis.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\C#\Exo2TP2Bis\Exo2TP2Bis\obj\Debug\Exo2TP2Bis.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\C#\Exo2TP2Bis\Exo2TP2Bis\obj\Debug\Exo2TP2Bis.exe
+C:\Users\dell\Desktop\C#\Exo2TP2Bis\Exo2TP2Bis\obj\Debug\Exo2TP2Bis.pdb

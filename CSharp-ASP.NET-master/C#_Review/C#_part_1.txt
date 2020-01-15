@@ -1,0 +1,18 @@
+
+- History of .NET and IDE (CLR == JVM)
+- Compare it with Java
+- C# basic :
+	* data types
+	* nullable type int? x=5
+	* passage param -> add out,ref modifier (page 47) // ref needs var initialised
+	* Nomage des parametres pour l'order => ex public fun(b:5,a:2) // appel
+	* function with many params  => ex public fun(int a,int b,params int[] tabInt)
+	* enum DataType (page 52)
+- C# POO :
+	* class partial 
+	* constructeur statique pour initialise les attr statique d'apres db
+	* class statique == all attrs and fun are statique/can't be object
+	* const-readonly
+	* les propriétés get and set & auto get and set public int Age { get; set; } } / doesn't work with set only
+
+	

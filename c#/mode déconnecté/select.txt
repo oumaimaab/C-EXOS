@@ -1,0 +1,20 @@
+string connectionString = @"Server=REVO-ONE-RL85\SQLEXPRESS;Database=NORTHWND;User Id=monid;Password=monmotdepasse;";
+SqlConnection conn = new SqlConnection(connectionString);
+
+SqlDataAdapter adapter = new SqlDataAdapter("SELECT LastName, FirstName, BirthDate FROM Employees", conn);
+DataSet data = new DataSet();
+try
+{
+    conn.Open();
+    adapter.Fill(data, "Employees");
+}
+catch { }
+finally
+{
+    conn.Close();
+}
+/////***********Nos données sont dans le Dataset, on peut les utiliser sans avoir besoin de la connexion.*******************///
+foreach (DataRow row in data.Tables["Employees"].Rows)
+{
+    Console.WriteLine($"{row["LastName"]} {row["FirstName"]} {Convert.ToDateTime(row["BirthDate"]).ToString("dd/MM/yyyy")}");
+}

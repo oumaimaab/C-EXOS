@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?><Database Name="Etudiants" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=kira16\SQLEXPRESS;Initial Catalog=Etudiants;Integrated Security=True" SettingsObjectName="EXO2.Properties.Settings" SettingsPropertyName="EtudiantsConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Filiere" Member="Filieres">
+    <Type Name="Filiere">
+      <Column Name="Id_filiere" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Nom_filiere" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

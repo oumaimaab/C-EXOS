@@ -1,0 +1,9 @@
+D:\4thCycle\ASP-C#\TP_REmoting\Client\bin\Debug\Client.exe.config
+D:\4thCycle\ASP-C#\TP_REmoting\Client\bin\Debug\Client.exe
+D:\4thCycle\ASP-C#\TP_REmoting\Client\bin\Debug\Client.pdb
+D:\4thCycle\ASP-C#\TP_REmoting\Client\bin\Debug\RemoteObject.dll
+D:\4thCycle\ASP-C#\TP_REmoting\Client\bin\Debug\RemoteObject.pdb
+D:\4thCycle\ASP-C#\TP_REmoting\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\4thCycle\ASP-C#\TP_REmoting\Client\obj\Debug\Client.csproj.CopyComplete
+D:\4thCycle\ASP-C#\TP_REmoting\Client\obj\Debug\Client.exe
+D:\4thCycle\ASP-C#\TP_REmoting\Client\obj\Debug\Client.pdb

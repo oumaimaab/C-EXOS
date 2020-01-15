@@ -1,0 +1,10 @@
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo3\ServerRemoting\ServerRemoting\bin\Debug\ServerRemoting.exe.config
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo3\ServerRemoting\ServerRemoting\bin\Debug\ServerRemoting.exe
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo3\ServerRemoting\ServerRemoting\bin\Debug\ServerRemoting.pdb
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo3\ServerRemoting\ServerRemoting\bin\Debug\NombreCache.dll
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo3\ServerRemoting\ServerRemoting\bin\Debug\NombreCache.pdb
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo3\ServerRemoting\ServerRemoting\obj\Debug\ServerRemoting.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo3\ServerRemoting\ServerRemoting\obj\Debug\ServerRemoting.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo3\ServerRemoting\ServerRemoting\obj\Debug\ServerRemoting.csproj.CopyComplete
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo3\ServerRemoting\ServerRemoting\obj\Debug\ServerRemoting.exe
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo3\ServerRemoting\ServerRemoting\obj\Debug\ServerRemoting.pdb

@@ -1,0 +1,8 @@
+C:\Users\HIND\Desktop\tuto ADO\TP_Deconnecter\TP_Deconnecter\bin\Debug\TP_Deconnecter.exe
+C:\Users\HIND\Desktop\tuto ADO\TP_Deconnecter\TP_Deconnecter\bin\Debug\TP_Deconnecter.pdb
+C:\Users\HIND\Desktop\tuto ADO\TP_Deconnecter\TP_Deconnecter\obj\x86\Debug\TP_Deconnecter.Form1.resources
+C:\Users\HIND\Desktop\tuto ADO\TP_Deconnecter\TP_Deconnecter\obj\x86\Debug\TP_Deconnecter.Properties.Resources.resources
+C:\Users\HIND\Desktop\tuto ADO\TP_Deconnecter\TP_Deconnecter\obj\x86\Debug\TP_Deconnecter.csproj.GenerateResource.Cache
+C:\Users\HIND\Desktop\tuto ADO\TP_Deconnecter\TP_Deconnecter\obj\x86\Debug\TP_Deconnecter.exe
+C:\Users\HIND\Desktop\tuto ADO\TP_Deconnecter\TP_Deconnecter\obj\x86\Debug\TP_Deconnecter.pdb
+C:\Users\HIND\Desktop\tuto ADO\TP_Deconnecter\TP_Deconnecter\obj\x86\Debug\TP_Deconnecter.csprojResolveAssemblyReference.cache

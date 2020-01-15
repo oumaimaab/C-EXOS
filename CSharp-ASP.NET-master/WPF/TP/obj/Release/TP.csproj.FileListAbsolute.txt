@@ -1,0 +1,8 @@
+D:\4thCycle\ASP-C#\WPF\TP\obj\Release\TP.csprojAssemblyReference.cache
+D:\4thCycle\ASP-C#\WPF\TP\obj\Release\MainWindow.g.cs
+D:\4thCycle\ASP-C#\WPF\TP\obj\Release\UserControl1.g.cs
+D:\4thCycle\ASP-C#\WPF\TP\obj\Release\App.g.cs
+D:\4thCycle\ASP-C#\WPF\TP\obj\Release\TP_Content.g.cs
+D:\4thCycle\ASP-C#\WPF\TP\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\4thCycle\ASP-C#\WPF\TP\obj\Release\TP_MarkupCompile.cache
+D:\4thCycle\ASP-C#\WPF\TP\obj\Release\TP_MarkupCompile.lref

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?><Database Name="Compte" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-3HPS76H\SQLEXPRESS;Initial Catalog=Compte;Integrated Security=True" SettingsObjectName="EXO3TPADO.Properties.Settings" SettingsPropertyName="CompteConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Compte" Member="Comptes">
+    <Type Name="Compte">
+      <Column Name="Num" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Nom" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="Prenom" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="solde" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

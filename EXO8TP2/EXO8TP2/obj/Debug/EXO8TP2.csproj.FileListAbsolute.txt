@@ -1,0 +1,7 @@
+C:\Users\dell\Desktop\C#\EXO8TP2\EXO8TP2\bin\Debug\EXO8TP2.exe.config
+C:\Users\dell\Desktop\C#\EXO8TP2\EXO8TP2\bin\Debug\EXO8TP2.exe
+C:\Users\dell\Desktop\C#\EXO8TP2\EXO8TP2\bin\Debug\EXO8TP2.pdb
+C:\Users\dell\Desktop\C#\EXO8TP2\EXO8TP2\obj\Debug\EXO8TP2.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\C#\EXO8TP2\EXO8TP2\obj\Debug\EXO8TP2.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\C#\EXO8TP2\EXO8TP2\obj\Debug\EXO8TP2.exe
+C:\Users\dell\Desktop\C#\EXO8TP2\EXO8TP2\obj\Debug\EXO8TP2.pdb

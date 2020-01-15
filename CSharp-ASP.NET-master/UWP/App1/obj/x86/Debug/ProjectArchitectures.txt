@@ -1,0 +1,1 @@
+D:\4thCycle\ASP-C#\UWP\App1\App1.csproj;x86

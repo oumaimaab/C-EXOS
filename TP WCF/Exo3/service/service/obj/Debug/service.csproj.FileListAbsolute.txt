@@ -1,0 +1,7 @@
+C:\Users\dell\Desktop\C#\TP WCF\Exo3\service\service\bin\service.dll.config
+C:\Users\dell\Desktop\C#\TP WCF\Exo3\service\service\bin\service.dll
+C:\Users\dell\Desktop\C#\TP WCF\Exo3\service\service\bin\service.pdb
+C:\Users\dell\Desktop\C#\TP WCF\Exo3\service\service\obj\Debug\service.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\C#\TP WCF\Exo3\service\service\obj\Debug\service.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\C#\TP WCF\Exo3\service\service\obj\Debug\service.dll
+C:\Users\dell\Desktop\C#\TP WCF\Exo3\service\service\obj\Debug\service.pdb

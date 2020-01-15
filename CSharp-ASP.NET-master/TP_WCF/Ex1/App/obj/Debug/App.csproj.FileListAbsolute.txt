@@ -1,0 +1,10 @@
+D:\4thCycle\ASP-C#\TP_WCF\Ex1\App\bin\Debug\App.exe.config
+D:\4thCycle\ASP-C#\TP_WCF\Ex1\App\bin\Debug\App.exe
+D:\4thCycle\ASP-C#\TP_WCF\Ex1\App\bin\Debug\App.pdb
+D:\4thCycle\ASP-C#\TP_WCF\Ex1\App\obj\Debug\App.csprojAssemblyReference.cache
+D:\4thCycle\ASP-C#\TP_WCF\Ex1\App\obj\Debug\App.Form1.resources
+D:\4thCycle\ASP-C#\TP_WCF\Ex1\App\obj\Debug\App.Properties.Resources.resources
+D:\4thCycle\ASP-C#\TP_WCF\Ex1\App\obj\Debug\App.csproj.GenerateResource.cache
+D:\4thCycle\ASP-C#\TP_WCF\Ex1\App\obj\Debug\App.exe
+D:\4thCycle\ASP-C#\TP_WCF\Ex1\App\obj\Debug\App.pdb
+D:\4thCycle\ASP-C#\TP_WCF\Ex1\App\obj\Debug\App.Convertisseur.resources

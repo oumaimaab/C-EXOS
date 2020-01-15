@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP2DB", "TP2DB\TP2DB.csproj", "{3F3BFFAB-E273-4F15-B593-FEA04C150395}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F3BFFAB-E273-4F15-B593-FEA04C150395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F3BFFAB-E273-4F15-B593-FEA04C150395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F3BFFAB-E273-4F15-B593-FEA04C150395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F3BFFAB-E273-4F15-B593-FEA04C150395}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9163BA7-050A-47B7-B28E-3C91F0F5142E}
+	EndGlobalSection
+EndGlobal

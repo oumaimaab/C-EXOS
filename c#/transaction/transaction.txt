@@ -1,0 +1,27 @@
+string connectionString = System.Configuration.ConfigurationManager.ConnectionStrings["conString"].ConnectionString;
+ SqlTransaction objTrans = null;
+ 
+ using (SqlConnection connection = new SqlConnection(connectionString))
+ {
+     connection.Open();
+ 
+     objTrans = connection.BeginTransaction(); // on initialise notre transation
+ 
+     SqlCommand sqlCmd = new SqlCommand("INSERT INTO Employees (LastName,FirstName) VALUES ('Alain','Pierre')", connection);                
+ 
+     try
+     {
+          sqlCmd.Transaction = objTrans; // on affecte notre transation à la commande puis on l'exécute
+          sqlCmd.ExecuteNonQuery();                    
+ 
+          objTrans.Commit(); // si pas d'exception, les données sont écrites en base
+     }
+     catch (Exception ex)
+     {
+         objTrans.Rollback(); // sinon on annule la modification
+     }
+     finally
+     {
+         connection.Close();
+     }
+}

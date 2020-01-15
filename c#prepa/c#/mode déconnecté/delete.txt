@@ -1,0 +1,30 @@
+La suppression de données fonctionne comme l’insertion et la modification. On définit notre commande.
+
+SqlCommand deleteCommand = new SqlCommand("DELETE FROM Employees WHERE EmployeeID=@EmployeeID", conn);
+deleteCommand.Parameters.Add("@EmployeeID", SqlDbType.Int, 4, "EmployeeID");
+
+/*******On affecte à notre DataAdapter la commande de suppression.
+
+adapter.DeleteCommand = deleteCommand;
+
+/***********On supprime les lignes. Dans l’exemple ci-dessous, on supprime tous les employés qui ont pour nom Toto.
+
+DataTable table = data.Tables["Employees"];
+
+var rows = table.Select("LastName = 'toto'");
+
+int n = rows.Length;
+
+for(int i =0; i < n; i++)
+{
+    rows[i].Delete();
+}
+
+/*****On met à jour la base.
+
+			
+int nb = adapter.Update(table);
+
+/*****La variable nb contient le nombre de lignes supprimées.
+
+L’intérêt du Dataset est qu’il permet de stocker plusieurs tables et il propose plusieurs fonctions pour sérialiser nos données. L’un des inconvénients du mode déconnecté est qu’il peut y avoir un décalage entre les données en base et les données dans notre Dataset.*****/

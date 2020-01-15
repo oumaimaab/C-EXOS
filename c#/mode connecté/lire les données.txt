@@ -1,0 +1,17 @@
+string connectionString = System.Configuration.ConfigurationManager.ConnectionStrings["conString"].ConnectionString;
+ 
+using (SqlConnection connection = new SqlConnection(connectionString))
+{
+    connection.Open();
+ 
+    SqlCommand sqlCmd = new SqlCommand("SELECT LastName, FirstName, BirthDate FROM Employees", connection);
+ 
+    SqlDataReader sqlReader = sqlCmd.ExecuteReader();
+ 
+    while (sqlReader.Read())
+    {
+        Console.WriteLine($"{sqlReader["LastName"]} {sqlReader["FirstName"]} {Convert.ToDateTime(sqlReader["BirthDate"]).ToString("dd/MM/yyyy")}");
+    }
+    sqlReader.Close();
+    sqlCmd.Dispose();
+}

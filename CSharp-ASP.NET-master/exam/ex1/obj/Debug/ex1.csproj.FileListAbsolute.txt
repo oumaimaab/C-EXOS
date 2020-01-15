@@ -1,0 +1,6 @@
+D:\4thCycle\ASP-C#\exam\ex1\bin\Debug\ex1.exe.config
+D:\4thCycle\ASP-C#\exam\ex1\bin\Debug\ex1.exe
+D:\4thCycle\ASP-C#\exam\ex1\bin\Debug\ex1.pdb
+D:\4thCycle\ASP-C#\exam\ex1\obj\Debug\ex1.csprojAssemblyReference.cache
+D:\4thCycle\ASP-C#\exam\ex1\obj\Debug\ex1.exe
+D:\4thCycle\ASP-C#\exam\ex1\obj\Debug\ex1.pdb

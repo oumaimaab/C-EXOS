@@ -1,0 +1,7 @@
+C:\Users\dell\Desktop\C#\Exo2TPThread\Exo2TPThread\bin\Debug\Exo2TPThread.exe.config
+C:\Users\dell\Desktop\C#\Exo2TPThread\Exo2TPThread\bin\Debug\Exo2TPThread.exe
+C:\Users\dell\Desktop\C#\Exo2TPThread\Exo2TPThread\bin\Debug\Exo2TPThread.pdb
+C:\Users\dell\Desktop\C#\Exo2TPThread\Exo2TPThread\obj\Debug\Exo2TPThread.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\C#\Exo2TPThread\Exo2TPThread\obj\Debug\Exo2TPThread.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\C#\Exo2TPThread\Exo2TPThread\obj\Debug\Exo2TPThread.exe
+C:\Users\dell\Desktop\C#\Exo2TPThread\Exo2TPThread\obj\Debug\Exo2TPThread.pdb

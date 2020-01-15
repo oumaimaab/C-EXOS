@@ -1,0 +1,25 @@
+SqlCommand insertCommand = new SqlCommand("INSERT INTO Employees (LastName, FirstName, BirthDate) VALUES (@LastName, @FirstName, @BirthDate)", conn);
+insertCommand.Parameters.Add("@LastName", SqlDbType.NVarChar, 30, "LastName");
+insertCommand.Parameters.Add("@FirstName", SqlDbType.NVarChar, 30, "FirstName");
+insertCommand.Parameters.Add("@BirthDate", SqlDbType.DateTime,0, "BirthDate");
+**
+
+////Affecter la commande d’insertion à notre dataadapter.********////
+
+adapter.InsertCommand = insertCommand;
+
+///////**********Ensuite, on crée la ligne à ajouter dans notre table.***********////////
+
+DataTable table = data.Tables["Employees"];
+DataRow row = table.NewRow();
+
+row["LastName"] = "Jean";
+row["FirstName"] = "Pierre";
+row["BirthDate"] = new DateTime(1985, 12, 1);
+table.Rows.Add(row);
+
+///////----Puis, on met à jour la base de données------/
+
+int nb = adapter.Update(table);
+
++++++++++++++++Update retourne le nombre de lignes modifiées.

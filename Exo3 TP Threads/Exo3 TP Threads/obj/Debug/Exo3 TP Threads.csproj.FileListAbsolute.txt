@@ -1,0 +1,10 @@
+C:\Users\dell\Desktop\C#\Exo3 TP Threads\Exo3 TP Threads\bin\Debug\Exo3 TP Threads.exe.config
+C:\Users\dell\Desktop\C#\Exo3 TP Threads\Exo3 TP Threads\bin\Debug\Exo3 TP Threads.exe
+C:\Users\dell\Desktop\C#\Exo3 TP Threads\Exo3 TP Threads\bin\Debug\Exo3 TP Threads.pdb
+C:\Users\dell\Desktop\C#\Exo3 TP Threads\Exo3 TP Threads\obj\Debug\Exo3 TP Threads.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\C#\Exo3 TP Threads\Exo3 TP Threads\obj\Debug\Exo3_TP_Threads.Form1.resources
+C:\Users\dell\Desktop\C#\Exo3 TP Threads\Exo3 TP Threads\obj\Debug\Exo3_TP_Threads.Properties.Resources.resources
+C:\Users\dell\Desktop\C#\Exo3 TP Threads\Exo3 TP Threads\obj\Debug\Exo3 TP Threads.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\C#\Exo3 TP Threads\Exo3 TP Threads\obj\Debug\Exo3 TP Threads.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\C#\Exo3 TP Threads\Exo3 TP Threads\obj\Debug\Exo3 TP Threads.exe
+C:\Users\dell\Desktop\C#\Exo3 TP Threads\Exo3 TP Threads\obj\Debug\Exo3 TP Threads.pdb

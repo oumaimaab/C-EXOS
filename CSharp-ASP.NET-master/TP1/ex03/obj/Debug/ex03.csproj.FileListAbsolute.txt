@@ -1,0 +1,7 @@
+D:\4th Cycle\ASP-C#\ConsoleApp2\ex03\bin\Debug\ex03.exe.config
+D:\4th Cycle\ASP-C#\ConsoleApp2\ex03\bin\Debug\ex03.exe
+D:\4th Cycle\ASP-C#\ConsoleApp2\ex03\bin\Debug\ex03.pdb
+D:\4th Cycle\ASP-C#\ConsoleApp2\ex03\obj\Debug\ex03.csprojAssemblyReference.cache
+D:\4th Cycle\ASP-C#\ConsoleApp2\ex03\obj\Debug\ex03.csproj.CoreCompileInputs.cache
+D:\4th Cycle\ASP-C#\ConsoleApp2\ex03\obj\Debug\ex03.exe
+D:\4th Cycle\ASP-C#\ConsoleApp2\ex03\obj\Debug\ex03.pdb

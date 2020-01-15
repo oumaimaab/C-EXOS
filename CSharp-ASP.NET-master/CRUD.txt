@@ -1,0 +1,78 @@
+Mode deconnecter
+
+Select : 
+SqlDataAdapter dap = new SqlDataAdapter(“select * from client”,dbCon);
+SqlCommandBuilder  builder = new SqlCommandBuilder (dap);
+dap.Fill(dt);
+
+ 
+Update : 
+dap.Update(ds.Tables["client"]); 
+
+
+Delete : 	
+dt.Rows[i].Delete(); 
+
+
+Insert : 
+DataRow dr=dt. dt.NewRow()
+dr.attr=”value”;
+Rows.Add(dr);
+
+
+Ajouter Table au DataSet :
+dt.TableName = "client"; ds.Tables.Add(dt); ds.Tables["client"]
+
+
+
+
+Mode Connecter
+
+Select : 
+SqlCommand cmd1 = new SqlCommand(query, dbCon,transaction);
+SqlDataReader reader= cmd.ExecuteReader();
+While(reader.read()){
+	reader.getInt(0)+  reader.getString(1)
+}
+
+
+Update/Delete/Insert : 
+SqlCommand cmd1 = new SqlCommand(query, dbCon,transaction);
+SqlParameter par1 = cmd1.Parameters.Add("@par", SqlDbType.BigInt);
+par1.Direction = ParameterDirection.Input;
+par1.Value = par2.Value = attr.Text;
+cmd1.ExecuteNonQuery();
+
+
+
+
+Linq 2 SQl
+
+Select : 
+var select = (from p in cl.filiere
+             where p.id_filiere == Convert.ToInt16(FiliereId)// match the ecords.
+select p).SingleOrDefault();
+
+
+Delete : 
+var delete = (from p in cl.filiere
+     		 where p.id_filiere == Convert.ToInt16(rowindex)// match the ecords.
+     		 select p).SingleOrDefault();
+cl.filiere.DeleteOnSubmit(delete);
+cl.SubmitChanges(); 
+
+
+Update : 
+var update = (from p in cl.filiere
+     		 where p.id_filiere == Convert.ToInt16(rowindex)// match the ecords.
+     		 select p).SingleOrDefault();
+update.nom_filiere = ModifiedName.Text;
+cl.SubmitChanges();
+
+
+Insert : 
+filiere NewFil = new filiere();
+NewFil.nom_filiere = ajouterFiliereInput.Text;
+cl.filiere.InsertOnSubmit(NewFil);
+cl.SubmitChanges();
+

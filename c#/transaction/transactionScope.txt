@@ -1,0 +1,16 @@
+string connectionString = System.Configuration.ConfigurationManager.ConnectionStrings["conString"].ConnectionString;
+ 
+using (TransactionScope transactionScope = new TransactionScope())
+{
+    using (SqlConnection connection = new SqlConnection(connectionString))
+    {
+        connection.Open();
+ 
+        SqlCommand command1 = new SqlCommand("INSERT INTO Employees (LastName,FirstName) VALUES ('Jean','Paul')", connection);
+        SqlCommand command2 = new SqlCommand("INSERT INTO Employees (LastName,FirstName) VALUES ('John','Doe')", connection);
+ 
+        command1.ExecuteNonQuery();
+        command2.ExecuteNonQuery();
+    }
+    transactionScope.Complete();
+}

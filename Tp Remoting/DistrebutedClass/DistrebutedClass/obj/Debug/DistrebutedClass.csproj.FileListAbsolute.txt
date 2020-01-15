@@ -1,0 +1,5 @@
+C:\Users\dell\Desktop\C#\Tp Remoting\DistrebutedClass\DistrebutedClass\bin\Debug\DistrebutedClass.dll
+C:\Users\dell\Desktop\C#\Tp Remoting\DistrebutedClass\DistrebutedClass\bin\Debug\DistrebutedClass.pdb
+C:\Users\dell\Desktop\C#\Tp Remoting\DistrebutedClass\DistrebutedClass\obj\Debug\DistrebutedClass.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\C#\Tp Remoting\DistrebutedClass\DistrebutedClass\obj\Debug\DistrebutedClass.dll
+C:\Users\dell\Desktop\C#\Tp Remoting\DistrebutedClass\DistrebutedClass\obj\Debug\DistrebutedClass.pdb

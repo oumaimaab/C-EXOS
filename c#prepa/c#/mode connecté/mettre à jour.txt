@@ -1,0 +1,12 @@
+string connectionString = System.Configuration.ConfigurationManager.ConnectionStrings["conString"].ConnectionString;
+ 
+using (SqlConnection connection = new SqlConnection(connectionString))
+{
+    connection.Open();
+ 
+    SqlCommand sqlCmd = new SqlCommand("UPDATE Employees SET Region = 'NY' WHERE Region IS NULL", connection);
+ 
+    int nbLignesModifies = sqlCmd.ExecuteNonQuery();
+                
+    Console.WriteLine($"Nb lignes modifiees = {nbLignesModifies}");
+} 

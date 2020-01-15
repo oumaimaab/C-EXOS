@@ -1,0 +1,7 @@
+C:\Users\dell\Desktop\C#\EXO5 TP2\EXO5 TP2\bin\Debug\EXO5 TP2.exe.config
+C:\Users\dell\Desktop\C#\EXO5 TP2\EXO5 TP2\bin\Debug\EXO5 TP2.exe
+C:\Users\dell\Desktop\C#\EXO5 TP2\EXO5 TP2\bin\Debug\EXO5 TP2.pdb
+C:\Users\dell\Desktop\C#\EXO5 TP2\EXO5 TP2\obj\Debug\EXO5 TP2.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\C#\EXO5 TP2\EXO5 TP2\obj\Debug\EXO5 TP2.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\C#\EXO5 TP2\EXO5 TP2\obj\Debug\EXO5 TP2.exe
+C:\Users\dell\Desktop\C#\EXO5 TP2\EXO5 TP2\obj\Debug\EXO5 TP2.pdb

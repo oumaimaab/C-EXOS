@@ -1,0 +1,9 @@
+C:\Users\dell\Desktop\C#\Tp Remoting\EXO1\EXO1\bin\Debug\EXO1.exe.config
+C:\Users\dell\Desktop\C#\Tp Remoting\EXO1\EXO1\bin\Debug\EXO1.exe
+C:\Users\dell\Desktop\C#\Tp Remoting\EXO1\EXO1\bin\Debug\EXO1.pdb
+C:\Users\dell\Desktop\C#\Tp Remoting\EXO1\EXO1\bin\Debug\DistrebutedClass.dll
+C:\Users\dell\Desktop\C#\Tp Remoting\EXO1\EXO1\bin\Debug\DistrebutedClass.pdb
+C:\Users\dell\Desktop\C#\Tp Remoting\EXO1\EXO1\obj\Debug\EXO1.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\C#\Tp Remoting\EXO1\EXO1\obj\Debug\EXO1.csproj.CopyComplete
+C:\Users\dell\Desktop\C#\Tp Remoting\EXO1\EXO1\obj\Debug\EXO1.exe
+C:\Users\dell\Desktop\C#\Tp Remoting\EXO1\EXO1\obj\Debug\EXO1.pdb

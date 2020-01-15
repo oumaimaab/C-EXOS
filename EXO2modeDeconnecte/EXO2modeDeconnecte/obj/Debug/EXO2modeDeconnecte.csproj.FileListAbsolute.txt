@@ -1,0 +1,10 @@
+C:\Users\dell\Desktop\C#\EXO2modeDeconnecte\EXO2modeDeconnecte\bin\Debug\EXO2modeDeconnecte.exe.config
+C:\Users\dell\Desktop\C#\EXO2modeDeconnecte\EXO2modeDeconnecte\bin\Debug\EXO2modeDeconnecte.exe
+C:\Users\dell\Desktop\C#\EXO2modeDeconnecte\EXO2modeDeconnecte\bin\Debug\EXO2modeDeconnecte.pdb
+C:\Users\dell\Desktop\C#\EXO2modeDeconnecte\EXO2modeDeconnecte\obj\Debug\EXO2modeDeconnecte.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\C#\EXO2modeDeconnecte\EXO2modeDeconnecte\obj\Debug\EXO2modeDeconnecte.Form1.resources
+C:\Users\dell\Desktop\C#\EXO2modeDeconnecte\EXO2modeDeconnecte\obj\Debug\EXO2modeDeconnecte.Properties.Resources.resources
+C:\Users\dell\Desktop\C#\EXO2modeDeconnecte\EXO2modeDeconnecte\obj\Debug\EXO2modeDeconnecte.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\C#\EXO2modeDeconnecte\EXO2modeDeconnecte\obj\Debug\EXO2modeDeconnecte.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\C#\EXO2modeDeconnecte\EXO2modeDeconnecte\obj\Debug\EXO2modeDeconnecte.exe
+C:\Users\dell\Desktop\C#\EXO2modeDeconnecte\EXO2modeDeconnecte\obj\Debug\EXO2modeDeconnecte.pdb

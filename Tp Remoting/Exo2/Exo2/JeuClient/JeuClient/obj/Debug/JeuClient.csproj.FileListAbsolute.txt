@@ -1,0 +1,13 @@
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo2\Exo2\JeuClient\JeuClient\bin\Debug\JeuClient.exe.config
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo2\Exo2\JeuClient\JeuClient\bin\Debug\JeuClient.exe
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo2\Exo2\JeuClient\JeuClient\bin\Debug\JeuClient.pdb
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo2\Exo2\JeuClient\JeuClient\bin\Debug\Exo2.dll
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo2\Exo2\JeuClient\JeuClient\bin\Debug\Exo2.pdb
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo2\Exo2\JeuClient\JeuClient\obj\Debug\JeuClient.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo2\Exo2\JeuClient\JeuClient\obj\Debug\JeuClient.Form1.resources
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo2\Exo2\JeuClient\JeuClient\obj\Debug\JeuClient.Properties.Resources.resources
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo2\Exo2\JeuClient\JeuClient\obj\Debug\JeuClient.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo2\Exo2\JeuClient\JeuClient\obj\Debug\JeuClient.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo2\Exo2\JeuClient\JeuClient\obj\Debug\JeuClient.csproj.CopyComplete
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo2\Exo2\JeuClient\JeuClient\obj\Debug\JeuClient.exe
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo2\Exo2\JeuClient\JeuClient\obj\Debug\JeuClient.pdb

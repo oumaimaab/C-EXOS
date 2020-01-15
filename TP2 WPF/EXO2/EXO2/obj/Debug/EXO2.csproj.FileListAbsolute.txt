@@ -1,0 +1,14 @@
+C:\Users\dell\Desktop\C#\TP2 WPF\EXO2\EXO2\bin\Debug\EXO2.exe.config
+C:\Users\dell\Desktop\C#\TP2 WPF\EXO2\EXO2\bin\Debug\EXO2.exe
+C:\Users\dell\Desktop\C#\TP2 WPF\EXO2\EXO2\bin\Debug\EXO2.pdb
+C:\Users\dell\Desktop\C#\TP2 WPF\EXO2\EXO2\obj\Debug\EXO2.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\C#\TP2 WPF\EXO2\EXO2\obj\Debug\MainWindow.g.cs
+C:\Users\dell\Desktop\C#\TP2 WPF\EXO2\EXO2\obj\Debug\App.g.cs
+C:\Users\dell\Desktop\C#\TP2 WPF\EXO2\EXO2\obj\Debug\EXO2_MarkupCompile.cache
+C:\Users\dell\Desktop\C#\TP2 WPF\EXO2\EXO2\obj\Debug\EXO2_MarkupCompile.lref
+C:\Users\dell\Desktop\C#\TP2 WPF\EXO2\EXO2\obj\Debug\MainWindow.baml
+C:\Users\dell\Desktop\C#\TP2 WPF\EXO2\EXO2\obj\Debug\EXO2.g.resources
+C:\Users\dell\Desktop\C#\TP2 WPF\EXO2\EXO2\obj\Debug\EXO2.Properties.Resources.resources
+C:\Users\dell\Desktop\C#\TP2 WPF\EXO2\EXO2\obj\Debug\EXO2.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\C#\TP2 WPF\EXO2\EXO2\obj\Debug\EXO2.exe
+C:\Users\dell\Desktop\C#\TP2 WPF\EXO2\EXO2\obj\Debug\EXO2.pdb

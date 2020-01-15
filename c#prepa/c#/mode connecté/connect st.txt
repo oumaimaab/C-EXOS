@@ -1,0 +1,35 @@
+string connectionString = @"Server=localhost;Database=NORTHWND;User Id=admin;Password=toto;";
+ 
+using (SqlConnection conn = new SqlConnection(connectionString))
+{
+    conn.Open();
+}
+
+//ConnectionStringBuilder
+
+var connectionStringBuilder = new SqlConnectionStringBuilder();
+connectionStringBuilder.DataSource = "localhost";
+connectionStringBuilder.UserID = "admin";
+connectionStringBuilder.Password = "toto";
+ 
+using (SqlConnection conn = new SqlConnection(connectionStringBuilder.ToString()))
+{
+    conn.Open();
+}
+//
+    ****Utiliser un fichier de configuration externe***
+//Créer un fichier de configuration app.config, par exemple, et ajouter la configuration de votre Connection string
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <connectionStrings>    
+        <add name="conString" providerName="System.Data.SqlClient" connectionString="Server=localhost;Database=NORTHWND;User Id=admin;Password=user;"/>
+    </connectionStrings>
+</configuration>
+
+/***se connecter de la manière suivante**/
+string connectionString = System.Configuration.ConfigurationManager.ConnectionStrings["conString"].ConnectionString;
+ 
+using (SqlConnection connection = new SqlConnection(connectionString))
+{
+    connection.Open();
+}

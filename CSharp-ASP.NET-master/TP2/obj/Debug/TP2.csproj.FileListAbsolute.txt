@@ -1,0 +1,9 @@
+D:\4thCycle\ASP-C#\TP2\bin\Debug\TP2.exe.config
+D:\4thCycle\ASP-C#\TP2\bin\Debug\TP2.exe
+D:\4thCycle\ASP-C#\TP2\bin\Debug\TP2.pdb
+D:\4thCycle\ASP-C#\TP2\obj\Debug\TP2.csprojAssemblyReference.cache
+D:\4thCycle\ASP-C#\TP2\obj\Debug\TP2.csproj.CoreCompileInputs.cache
+D:\4thCycle\ASP-C#\TP2\obj\Debug\TP2.exe
+D:\4thCycle\ASP-C#\TP2\obj\Debug\TP2.pdb
+D:\4thCycle\ASP-C#\TP2\obj\Debug\TP2.Form1.resources
+D:\4thCycle\ASP-C#\TP2\obj\Debug\TP2.csproj.GenerateResource.cache

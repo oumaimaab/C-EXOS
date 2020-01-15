@@ -1,0 +1,13 @@
+
+- C# OOP continue:
+	* heritage
+	* the keyword base to call fatherClass Constructor , Methodes and Protected Attrs
+	*  -  	 -    sealed to avoid inheritance ( Heritage )
+	* surdefinition des methode or override keyowrd valid only if abstract or virtual keyword
+	* methode virtuelle and keyword virtual 
+	* methode et class abstract
+	* Masquage des membres and the keyword new 
+
+- Windows_Forms:
+ 	* comps
+	* dispose() methode

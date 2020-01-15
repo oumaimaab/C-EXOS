@@ -1,0 +1,7 @@
+C:\Users\dell\Desktop\C#\Exo3 TP1\Exo3 TP1\bin\Debug\Exo3 TP1.exe.config
+C:\Users\dell\Desktop\C#\Exo3 TP1\Exo3 TP1\bin\Debug\Exo3 TP1.exe
+C:\Users\dell\Desktop\C#\Exo3 TP1\Exo3 TP1\bin\Debug\Exo3 TP1.pdb
+C:\Users\dell\Desktop\C#\Exo3 TP1\Exo3 TP1\obj\Debug\Exo3 TP1.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\C#\Exo3 TP1\Exo3 TP1\obj\Debug\Exo3 TP1.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\C#\Exo3 TP1\Exo3 TP1\obj\Debug\Exo3 TP1.exe
+C:\Users\dell\Desktop\C#\Exo3 TP1\Exo3 TP1\obj\Debug\Exo3 TP1.pdb

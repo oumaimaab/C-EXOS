@@ -1,0 +1,9 @@
+D:\4thCycle\Tests\WCF\Service\bin\Service.dll.config
+D:\4thCycle\Tests\WCF\Service\bin\Service.dll
+D:\4thCycle\Tests\WCF\Service\bin\Service.pdb
+D:\4thCycle\Tests\WCF\Service\obj\Debug\Service.csprojAssemblyReference.cache
+D:\4thCycle\Tests\WCF\Service\obj\Debug\Service.dll
+D:\4thCycle\Tests\WCF\Service\obj\Debug\Service.pdb
+D:\4thCycle\ASP-C#\TP_WCF\Ex1\Service\obj\Debug\Service.csprojAssemblyReference.cache
+D:\4thCycle\ASP-C#\TP_WCF\Ex1\Service\obj\Debug\Service.dll
+D:\4thCycle\ASP-C#\TP_WCF\Ex1\Service\obj\Debug\Service.pdb

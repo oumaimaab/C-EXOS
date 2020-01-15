@@ -1,0 +1,16 @@
+
+- C# POO continue:
+	* les interfaces (pour imp 2 interfaces avec 2 meme methods just add IntefaceName Before => ex:Inferface1.afficher() )
+	* the keyword "is" to check the type of var
+	* casting or conversions & keyword "as"
+	* les collections (List<DataType>,Dictionary<DataType1,DataType2> .Keys & .Values) like java
+	* l'interface IComparable => Person::CompareTo(Object o) and listPerson.Sort() in main
+	* l'interface IComparer => int Compare(Object o1, Object o2)  --- page 24
+
+- LINQ technolgie
+- Les Génériques (Template en C++):
+	* Method Template EX:  T[] tri<T>(T[] tab) => tri<DataType>(Tab);
+	* Les Classes génériques EX: class ClassGénrique <T> => like List Class
+	* les contraintes sur les class Generiques EX: class MyClass<T> Where T:class,IInterface,new() --- page 39
+
+	

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?><Database Name="GestionEtudiants" Class="DataClasses1DataContext" Serialization="Unidirectional" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=DESKTOP-3HPS76H\SQLEXPRESS;Initial Catalog=GestionEtudiants;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="GestionEtudiantsConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Filiere" Member="Filieres">
+    <Type Name="Filiere">
+      <Column Name="id_Filiere" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="nom_Filiere" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

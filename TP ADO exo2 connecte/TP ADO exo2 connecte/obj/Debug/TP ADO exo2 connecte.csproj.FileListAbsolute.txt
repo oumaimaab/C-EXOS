@@ -1,0 +1,10 @@
+C:\Users\dell\Desktop\C#\TP ADO exo2 connecte\TP ADO exo2 connecte\bin\Debug\TP ADO exo2 connecte.exe.config
+C:\Users\dell\Desktop\C#\TP ADO exo2 connecte\TP ADO exo2 connecte\bin\Debug\TP ADO exo2 connecte.exe
+C:\Users\dell\Desktop\C#\TP ADO exo2 connecte\TP ADO exo2 connecte\bin\Debug\TP ADO exo2 connecte.pdb
+C:\Users\dell\Desktop\C#\TP ADO exo2 connecte\TP ADO exo2 connecte\obj\Debug\TP ADO exo2 connecte.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\C#\TP ADO exo2 connecte\TP ADO exo2 connecte\obj\Debug\TP_ADO_exo2_connecte.Form1.resources
+C:\Users\dell\Desktop\C#\TP ADO exo2 connecte\TP ADO exo2 connecte\obj\Debug\TP_ADO_exo2_connecte.Properties.Resources.resources
+C:\Users\dell\Desktop\C#\TP ADO exo2 connecte\TP ADO exo2 connecte\obj\Debug\TP ADO exo2 connecte.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\C#\TP ADO exo2 connecte\TP ADO exo2 connecte\obj\Debug\TP ADO exo2 connecte.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\C#\TP ADO exo2 connecte\TP ADO exo2 connecte\obj\Debug\TP ADO exo2 connecte.exe
+C:\Users\dell\Desktop\C#\TP ADO exo2 connecte\TP ADO exo2 connecte\obj\Debug\TP ADO exo2 connecte.pdb

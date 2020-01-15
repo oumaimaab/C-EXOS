@@ -1,0 +1,9 @@
+C:\Users\dell\Desktop\C#\Tp Remoting\EXO1\Server\Server\bin\Debug\Server.exe.config
+C:\Users\dell\Desktop\C#\Tp Remoting\EXO1\Server\Server\bin\Debug\Server.exe
+C:\Users\dell\Desktop\C#\Tp Remoting\EXO1\Server\Server\bin\Debug\Server.pdb
+C:\Users\dell\Desktop\C#\Tp Remoting\EXO1\Server\Server\bin\Debug\DistrebutedClass.dll
+C:\Users\dell\Desktop\C#\Tp Remoting\EXO1\Server\Server\bin\Debug\DistrebutedClass.pdb
+C:\Users\dell\Desktop\C#\Tp Remoting\EXO1\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\C#\Tp Remoting\EXO1\Server\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\dell\Desktop\C#\Tp Remoting\EXO1\Server\Server\obj\Debug\Server.exe
+C:\Users\dell\Desktop\C#\Tp Remoting\EXO1\Server\Server\obj\Debug\Server.pdb

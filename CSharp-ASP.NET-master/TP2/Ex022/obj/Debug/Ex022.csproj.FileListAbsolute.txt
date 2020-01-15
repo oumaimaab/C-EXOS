@@ -1,0 +1,10 @@
+D:\4thCycle\ASP-C#\TP2\Ex022\bin\Debug\Ex022.exe.config
+D:\4thCycle\ASP-C#\TP2\Ex022\bin\Debug\Ex022.exe
+D:\4thCycle\ASP-C#\TP2\Ex022\bin\Debug\Ex022.pdb
+D:\4thCycle\ASP-C#\TP2\Ex022\obj\Debug\Ex022.csprojAssemblyReference.cache
+D:\4thCycle\ASP-C#\TP2\Ex022\obj\Debug\Ex022.Form1.resources
+D:\4thCycle\ASP-C#\TP2\Ex022\obj\Debug\Ex022.Properties.Resources.resources
+D:\4thCycle\ASP-C#\TP2\Ex022\obj\Debug\Ex022.csproj.GenerateResource.cache
+D:\4thCycle\ASP-C#\TP2\Ex022\obj\Debug\Ex022.csproj.CoreCompileInputs.cache
+D:\4thCycle\ASP-C#\TP2\Ex022\obj\Debug\Ex022.exe
+D:\4thCycle\ASP-C#\TP2\Ex022\obj\Debug\Ex022.pdb

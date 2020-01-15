@@ -1,0 +1,10 @@
+C:\Users\dell\Desktop\C#\Exo2TPADO\Exo2TPADO\bin\Debug\Exo2TPADO.exe.config
+C:\Users\dell\Desktop\C#\Exo2TPADO\Exo2TPADO\bin\Debug\Exo2TPADO.exe
+C:\Users\dell\Desktop\C#\Exo2TPADO\Exo2TPADO\bin\Debug\Exo2TPADO.pdb
+C:\Users\dell\Desktop\C#\Exo2TPADO\Exo2TPADO\obj\Debug\Exo2TPADO.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\C#\Exo2TPADO\Exo2TPADO\obj\Debug\Exo2TPADO.Form1.resources
+C:\Users\dell\Desktop\C#\Exo2TPADO\Exo2TPADO\obj\Debug\Exo2TPADO.Properties.Resources.resources
+C:\Users\dell\Desktop\C#\Exo2TPADO\Exo2TPADO\obj\Debug\Exo2TPADO.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\C#\Exo2TPADO\Exo2TPADO\obj\Debug\Exo2TPADO.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\C#\Exo2TPADO\Exo2TPADO\obj\Debug\Exo2TPADO.exe
+C:\Users\dell\Desktop\C#\Exo2TPADO\Exo2TPADO\obj\Debug\Exo2TPADO.pdb

@@ -1,0 +1,10 @@
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo2\Exo2\server\server\bin\Debug\server.exe.config
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo2\Exo2\server\server\bin\Debug\server.exe
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo2\Exo2\server\server\bin\Debug\server.pdb
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo2\Exo2\server\server\bin\Debug\Exo2.dll
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo2\Exo2\server\server\bin\Debug\Exo2.pdb
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo2\Exo2\server\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo2\Exo2\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo2\Exo2\server\server\obj\Debug\server.csproj.CopyComplete
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo2\Exo2\server\server\obj\Debug\server.exe
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo2\Exo2\server\server\obj\Debug\server.pdb

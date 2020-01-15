@@ -1,0 +1,13 @@
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo3\RemotingClient)\RemotingClient)\bin\Debug\RemotingClient).exe.config
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo3\RemotingClient)\RemotingClient)\bin\Debug\RemotingClient).exe
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo3\RemotingClient)\RemotingClient)\bin\Debug\RemotingClient).pdb
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo3\RemotingClient)\RemotingClient)\bin\Debug\NombreCache.dll
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo3\RemotingClient)\RemotingClient)\bin\Debug\NombreCache.pdb
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo3\RemotingClient)\RemotingClient)\obj\Debug\RemotingClient).csprojAssemblyReference.cache
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo3\RemotingClient)\RemotingClient)\obj\Debug\RemotingClient_.Form1.resources
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo3\RemotingClient)\RemotingClient)\obj\Debug\RemotingClient_.Properties.Resources.resources
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo3\RemotingClient)\RemotingClient)\obj\Debug\RemotingClient).csproj.GenerateResource.cache
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo3\RemotingClient)\RemotingClient)\obj\Debug\RemotingClient).csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo3\RemotingClient)\RemotingClient)\obj\Debug\RemotingClient).csproj.CopyComplete
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo3\RemotingClient)\RemotingClient)\obj\Debug\RemotingClient).exe
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo3\RemotingClient)\RemotingClient)\obj\Debug\RemotingClient).pdb

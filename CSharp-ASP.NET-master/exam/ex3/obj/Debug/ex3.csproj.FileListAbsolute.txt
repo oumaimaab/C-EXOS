@@ -1,0 +1,4 @@
+D:\4thCycle\ASP-C#\exam\ex3\obj\Debug\ex3.csprojAssemblyReference.cache
+D:\4thCycle\ASP-C#\exam\ex3\obj\Debug\ex3.Form1.resources
+D:\4thCycle\ASP-C#\exam\ex3\obj\Debug\ex3.Properties.Resources.resources
+D:\4thCycle\ASP-C#\exam\ex3\obj\Debug\ex3.csproj.GenerateResource.cache

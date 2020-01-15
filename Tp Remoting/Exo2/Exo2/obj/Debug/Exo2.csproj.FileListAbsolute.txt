@@ -1,0 +1,6 @@
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo2\Exo2\bin\Debug\Exo2.dll
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo2\Exo2\bin\Debug\Exo2.pdb
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo2\Exo2\obj\Debug\Exo2.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo2\Exo2\obj\Debug\Exo2.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo2\Exo2\obj\Debug\Exo2.dll
+C:\Users\dell\Desktop\C#\Tp Remoting\Exo2\Exo2\obj\Debug\Exo2.pdb

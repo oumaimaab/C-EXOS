@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="DB" Class="DataClassesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-NNEO70C\SQLEXPRESS;Initial Catalog=DB;Integrated Security=True" SettingsObjectName="ex3.Properties.Settings" SettingsPropertyName="DBConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Association" Member="Association">
+    <Type Name="Association">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="solde" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Annee" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Donateur" Member="Donateur">
+    <Type Name="Donateur">
+      <Column Name="NumDonateur" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="NomDonateur" Type="System.String" DbType="NChar(50)" CanBeNull="true" />
+      <Column Name="solde" Type="System.Double" DbType="Float" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

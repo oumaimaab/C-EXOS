@@ -1,0 +1,9 @@
+D:\4thCycle\ASP-C#\TP_REmoting\Ex3\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\4thCycle\ASP-C#\TP_REmoting\Ex3\Server\bin\Debug\Server.exe.config
+D:\4thCycle\ASP-C#\TP_REmoting\Ex3\Server\bin\Debug\Server.exe
+D:\4thCycle\ASP-C#\TP_REmoting\Ex3\Server\bin\Debug\Server.pdb
+D:\4thCycle\ASP-C#\TP_REmoting\Ex3\Server\bin\Debug\RemoteObject.dll
+D:\4thCycle\ASP-C#\TP_REmoting\Ex3\Server\bin\Debug\RemoteObject.pdb
+D:\4thCycle\ASP-C#\TP_REmoting\Ex3\Server\obj\Debug\Server.csproj.CopyComplete
+D:\4thCycle\ASP-C#\TP_REmoting\Ex3\Server\obj\Debug\Server.exe
+D:\4thCycle\ASP-C#\TP_REmoting\Ex3\Server\obj\Debug\Server.pdb

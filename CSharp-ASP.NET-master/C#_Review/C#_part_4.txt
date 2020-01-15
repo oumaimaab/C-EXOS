@@ -1,0 +1,10 @@
+
+- les delegates :
+	* prototype as the func. you want to point to
+	* can point to many funcs. by '+' for add or '-' for delete
+	* Main CONCEPT is to pass funcs as arguments
+	* delegate anonyme
+	* lambda Expression --- page 21
+	
+	
+	

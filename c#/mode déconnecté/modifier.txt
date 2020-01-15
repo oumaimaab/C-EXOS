@@ -1,0 +1,33 @@
+SqlCommand updateCommand = new SqlCommand("Update Employees SET City=@City WHERE EmployeeID=@EmployeeID", conn);
+updateCommand.Parameters.Add("@City", SqlDbType.NVarChar, 30, "City");
+updateCommand.Parameters.Add("@EmployeeID", SqlDbType.Int, 4, "EmployeeID");
+
+On affecte à notre adapter la commande.
+
+adapter.UpdateCommand = updateCommand;
+
+++++++On fait quelques modifications dans nos données.
+
+DataTable table = data.Tables["Employees"];
+
+// on sélectionne tous les villes dont le pays est UK
+var rows = table.Select("Country = 'UK'");
+
+// on modifie la ville à Manchester
+foreach (DataRow row in rows)
+{
+    row["City"] = "Manchester";
+}
+
+***************On met à jour nos données avec Update.
+
+int nb = adapter.Update(table);
+
+/*****Pour chaque ligne modifiée, la requête de la commande update est exécutée.
+Donc, si les lignes modifiées ont les employeID suivants 3, 5 ,10, les requêtes suivantes seront exécutées:**********/
+
+Update Employees SET City=Manchester WHERE EmployeeID=3;
+Update Employees SET City=Manchester WHERE EmployeeID=5;
+Update Employees SET City=Manchester WHERE EmployeeID=10;
+
+////////La variable nb, contient 3, le nombre de lignes modifiées.

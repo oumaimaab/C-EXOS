@@ -1,0 +1,10 @@
+C:\Users\dell\Desktop\C#\Exo4TPThreads\Exo4TPThreads\bin\Debug\Exo4TPThreads.exe.config
+C:\Users\dell\Desktop\C#\Exo4TPThreads\Exo4TPThreads\bin\Debug\Exo4TPThreads.exe
+C:\Users\dell\Desktop\C#\Exo4TPThreads\Exo4TPThreads\bin\Debug\Exo4TPThreads.pdb
+C:\Users\dell\Desktop\C#\Exo4TPThreads\Exo4TPThreads\obj\Debug\Exo4TPThreads.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\C#\Exo4TPThreads\Exo4TPThreads\obj\Debug\Exo4TPThreads.Form1.resources
+C:\Users\dell\Desktop\C#\Exo4TPThreads\Exo4TPThreads\obj\Debug\Exo4TPThreads.Properties.Resources.resources
+C:\Users\dell\Desktop\C#\Exo4TPThreads\Exo4TPThreads\obj\Debug\Exo4TPThreads.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\C#\Exo4TPThreads\Exo4TPThreads\obj\Debug\Exo4TPThreads.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\C#\Exo4TPThreads\Exo4TPThreads\obj\Debug\Exo4TPThreads.exe
+C:\Users\dell\Desktop\C#\Exo4TPThreads\Exo4TPThreads\obj\Debug\Exo4TPThreads.pdb
