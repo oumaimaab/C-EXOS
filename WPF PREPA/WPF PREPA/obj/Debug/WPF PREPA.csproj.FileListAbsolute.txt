@@ -1,0 +1,39 @@
+C:\Users\dell\source\repos\WPF PREPA\WPF PREPA\bin\Debug\WPF PREPA.exe.config
+C:\Users\dell\source\repos\WPF PREPA\WPF PREPA\bin\Debug\WPF PREPA.exe
+C:\Users\dell\source\repos\WPF PREPA\WPF PREPA\bin\Debug\WPF PREPA.pdb
+C:\Users\dell\source\repos\WPF PREPA\WPF PREPA\obj\Debug\MainWindow.g.cs
+C:\Users\dell\source\repos\WPF PREPA\WPF PREPA\obj\Debug\App.g.cs
+C:\Users\dell\source\repos\WPF PREPA\WPF PREPA\obj\Debug\WPF PREPA_MarkupCompile.cache
+C:\Users\dell\source\repos\WPF PREPA\WPF PREPA\obj\Debug\WPF PREPA_MarkupCompile.lref
+C:\Users\dell\source\repos\WPF PREPA\WPF PREPA\obj\Debug\MainWindow.baml
+C:\Users\dell\source\repos\WPF PREPA\WPF PREPA\obj\Debug\WPF PREPA.g.resources
+C:\Users\dell\source\repos\WPF PREPA\WPF PREPA\obj\Debug\WPF_PREPA.Properties.Resources.resources
+C:\Users\dell\source\repos\WPF PREPA\WPF PREPA\obj\Debug\WPF PREPA.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\WPF PREPA\WPF PREPA\obj\Debug\WPF PREPA.exe
+C:\Users\dell\source\repos\WPF PREPA\WPF PREPA\obj\Debug\WPF PREPA.pdb
+C:\Users\dell\source\repos\WPF PREPA\WPF PREPA\obj\Debug\WPF PREPA.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\WPF PREPA\WPF PREPA\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\dell\source\repos\WPF PREPA\WPF PREPA\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\dell\source\repos\WPF PREPA\WPF PREPA\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\dell\source\repos\WPF PREPA\WPF PREPA\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\dell\source\repos\WPF PREPA\WPF PREPA\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dell\source\repos\WPF PREPA\WPF PREPA\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dell\source\repos\WPF PREPA\WPF PREPA\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dell\source\repos\WPF PREPA\WPF PREPA\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dell\source\repos\WPF PREPA\WPF PREPA\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dell\source\repos\WPF PREPA\WPF PREPA\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dell\source\repos\WPF PREPA\WPF PREPA\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dell\source\repos\WPF PREPA\WPF PREPA\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dell\source\repos\WPF PREPA\WPF PREPA\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\dell\source\repos\WPF PREPA\WPF PREPA\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\dell\source\repos\WPF PREPA\WPF PREPA\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\dell\source\repos\WPF PREPA\WPF PREPA\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\dell\source\repos\WPF PREPA\WPF PREPA\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\dell\source\repos\WPF PREPA\WPF PREPA\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\dell\source\repos\WPF PREPA\WPF PREPA\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\dell\source\repos\WPF PREPA\WPF PREPA\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\dell\source\repos\WPF PREPA\WPF PREPA\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\dell\source\repos\WPF PREPA\WPF PREPA\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\dell\source\repos\WPF PREPA\WPF PREPA\obj\Debug\WPF PREPA.csproj.CopyComplete
+C:\Users\dell\source\repos\WPF PREPA\WPF PREPA\obj\Debug\WPF PREPA_Content.g.cs
+C:\Users\dell\source\repos\WPF PREPA\WPF PREPA\bin\Debug\son.mp3

@@ -1,0 +1,63 @@
+﻿<Window x:Class="WPFPREPAEXO2TP.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFPREPAEXO2TP"
+        xmlns:y="clr-namespace:WPFPREPAEXO2TP"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+       >
+
+    <Window.Resources>
+        <local:FiliereClass x:Key="data"/>
+        <Style x:Key="textBoxInError" TargetType="TextBox">
+            <Style.Triggers>
+                <Trigger Property="Validation.HasError" Value="true">
+                    <Setter Property="ToolTip"
+                            Value="{Binding RelativeSource={x:Static RelativeSource.Self},
+                        Path=(Validation.Errors)[0].ErrorContent}"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <Grid x:Name="grid">
+            <Label Content="Ajouter une filiere" HorizontalAlignment="Left" Margin="38,91,0,0" VerticalAlignment="Top" Height="22" Width="117"/>
+            <Label Content="Nom filiere" HorizontalAlignment="Left" Margin="38,147,0,0" VerticalAlignment="Top" Height="23" Width="117"/>
+            <TextBox x:Name="textbox" HorizontalAlignment="Left" Height="23" Margin="186,147,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120">
+                <TextBox.Text>
+                    <Binding Path="Nom_filiere" Source="{StaticResource data}"
+                         ValidatesOnExceptions="True"
+                         UpdateSourceTrigger="PropertyChanged">
+                    </Binding>
+                </TextBox.Text>
+            </TextBox>
+            <Button x:Name="ajouter" Click="ajouter_Click" Content="Ajouter" HorizontalAlignment="Left" Margin="38,209,0,0" VerticalAlignment="Top" Width="117" Height="44"/>
+            <Label Content="Liste des filieres" HorizontalAlignment="Left" Margin="459,91,0,0" VerticalAlignment="Top" Height="22" Width="201"/>
+            <DataGrid Name="grid1" ItemsSource="{Binding}" HorizontalAlignment="Left" Height="142" Margin="432,147,0,0" VerticalAlignment="Top" Width="290" AutoGenerateColumns="False">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Num" Binding="{Binding Id_filiere}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Filiere" Binding="{Binding Nom_filiere}"></DataGridTextColumn>
+                    <DataGridTextColumn Header="Responsable" Binding="{Binding Responsable}"></DataGridTextColumn>
+                </DataGrid.Columns>
+                <DataGrid.RowStyle>
+                    <Style TargetType="DataGridRow">
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding Nom_filiere}" Value="GPMC">
+                                <Setter Property="Background" Value="Red"></Setter>
+                            </DataTrigger>
+                            <DataTrigger Binding="{Binding Id_filiere}" Value="2">
+                                <Setter Property="Background" Value="Green"></Setter>
+                            </DataTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </DataGrid.RowStyle>
+            </DataGrid>
+            <Button x:Name="modifier" Content="Modifier" HorizontalAlignment="Left" Margin="400,322,0,0" VerticalAlignment="Top" Width="117" Height="44"/>
+            <Button x:Name="supprimer" Content="Supprimer" HorizontalAlignment="Left" Margin="620,322,0,0" VerticalAlignment="Top" Width="117" Height="44"/>
+            <StackPanel HorizontalAlignment="Left" Height="113" Margin="38,91,0,0" VerticalAlignment="Top" Width="268"/>
+        </Grid>
+    </Grid>
+</Window>

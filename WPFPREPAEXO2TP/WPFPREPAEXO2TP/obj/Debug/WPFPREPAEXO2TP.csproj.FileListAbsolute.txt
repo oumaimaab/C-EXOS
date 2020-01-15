@@ -1,0 +1,15 @@
+C:\Users\dell\source\repos\WPFPREPAEXO2TP\WPFPREPAEXO2TP\obj\Debug\MainWindow.g.cs
+C:\Users\dell\source\repos\WPFPREPAEXO2TP\WPFPREPAEXO2TP\obj\Debug\App.g.cs
+C:\Users\dell\source\repos\WPFPREPAEXO2TP\WPFPREPAEXO2TP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dell\source\repos\WPFPREPAEXO2TP\WPFPREPAEXO2TP\obj\Debug\WPFPREPAEXO2TP_MarkupCompile.cache
+C:\Users\dell\source\repos\WPFPREPAEXO2TP\WPFPREPAEXO2TP\obj\Debug\WPFPREPAEXO2TP_MarkupCompile.lref
+C:\Users\dell\source\repos\WPFPREPAEXO2TP\WPFPREPAEXO2TP\obj\Debug\WPFPREPAEXO2TP.exe
+C:\Users\dell\source\repos\WPFPREPAEXO2TP\WPFPREPAEXO2TP\obj\Debug\WPFPREPAEXO2TP.pdb
+C:\Users\dell\source\repos\WPFPREPAEXO2TP\WPFPREPAEXO2TP\bin\Debug\WPFPREPAEXO2TP.exe.config
+C:\Users\dell\source\repos\WPFPREPAEXO2TP\WPFPREPAEXO2TP\bin\Debug\WPFPREPAEXO2TP.exe
+C:\Users\dell\source\repos\WPFPREPAEXO2TP\WPFPREPAEXO2TP\bin\Debug\WPFPREPAEXO2TP.pdb
+C:\Users\dell\source\repos\WPFPREPAEXO2TP\WPFPREPAEXO2TP\obj\Debug\MainWindow.baml
+C:\Users\dell\source\repos\WPFPREPAEXO2TP\WPFPREPAEXO2TP\obj\Debug\WPFPREPAEXO2TP.g.resources
+C:\Users\dell\source\repos\WPFPREPAEXO2TP\WPFPREPAEXO2TP\obj\Debug\WPFPREPAEXO2TP.Properties.Resources.resources
+C:\Users\dell\source\repos\WPFPREPAEXO2TP\WPFPREPAEXO2TP\obj\Debug\WPFPREPAEXO2TP.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\WPFPREPAEXO2TP\WPFPREPAEXO2TP\obj\Debug\WPFPREPAEXO2TP.csprojAssemblyReference.cache
